@@ -1,8 +1,8 @@
 # nifty-heatmap-core
 
 Shared Yahoo Finance fetch + gainers/losers computation logic for
-[nifty-heatmap-web](https://github.com/abhijeetbishayee-drb/nifty-heatmap-web) and
-[nifty-heatmap](https://github.com/abhijeetbishayee-drb/nifty-heatmap).
+[nifty-heatmap-web](https://github.com/sectorchakra/nifty-heatmap-web) and
+[nifty-heatmap](https://github.com/sectorchakra/nifty-heatmap).
 
 Not published to PyPI. Both consumers pull this in as a git submodule at
 `nifty_heatmap_core/` and import it directly (`import nifty_heatmap_core`) — this lets
